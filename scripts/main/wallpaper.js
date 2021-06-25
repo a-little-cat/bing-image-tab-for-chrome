@@ -11,7 +11,7 @@ function showDefaultWallpaper() {
 // set footer text
 function setFooterText(text) {
 	var footer_text = document.getElementById('footer-text');
-	footer_text.innerHTML = "text";
+	footer_text.innerHTML = "";
 }
 
 // display loading animation
